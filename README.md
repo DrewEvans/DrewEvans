@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **React, & where I see myself in 6 months**
+- 💬 Ask me about **React, & where I see myself in 10 years**
 
 - 📫 How to reach me: <b>andrew.wr.evans@gmail.com</b> 
 

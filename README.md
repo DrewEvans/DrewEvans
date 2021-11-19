@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, & where I see myself in 6 months**
 
-- 📫 How to reach me **andrew.wr.evans@gmail.com**
+- 📫 How to reach me: <b>andrew.wr.evans@gmail.com</b> 
 
 - ⚡ Fun fact **I like my coffee darker than the plague**
 

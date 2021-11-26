@@ -3,7 +3,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently trying to master **React**
 
 - 💬 Ask me about **React, & where I see myself in 10 years**
 

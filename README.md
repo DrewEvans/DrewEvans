@@ -1,5 +1,5 @@
 <h1 align="center">Welcome Newcomer </h1>
-<h3 align="center">A frontend developer from Canada living in France, starting to look for work</h3>
+<h3 align="center">I Am frontend developer from Canada living in France, starting to look for work</h3>
 
 <hr>
 

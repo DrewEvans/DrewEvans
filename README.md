@@ -1,5 +1,5 @@
 <h1 align="center">Welcome Newcomer </h1>
-<h3 align="center">I Am frontend developer from Canada living in France, starting to look for work</h3>
+<h3 align="center">I Am frontend developer from Canada living in France, for hire</h3>
 
 <hr>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, & where I see myself in 10 years**
 
-- 📫 How to reach me: <b>andrew.wr.evans@gmail.com</b> 
+- 📫 How to reach me: <b>andrewevans@devporium.org</b> 
 
 - ⚡ Fun fact **I like my coffee darker than the plague**
 

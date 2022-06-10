@@ -1,15 +1,15 @@
-<h1 align="center">Welcome Newcomer </h1>
-<h3 align="center">I Am frontend developer from Canada living in France, for hire</h3>
+<h1 align="center">Welcome Newcomer</h1>
+<h3 align="center">A full stack developer fulled by ☕</h3>
 
 <hr>
 
 - 🌱 I’m currently trying to master **React**
 
-- 💬 Ask me about **React, & where I see myself in 10 years**
+- 💬 Ask me about **What I'm currently working on!**
 
 - 📫 How to reach me: <b>andrewevans@devporium.org</b> 
 
-- ⚡ Fun fact **I like my coffee darker than the plague**
+- ⚡ Fun fact **I'm terrified of bats & they are the only mammal that can actually fly...**
 
 <hr>
 

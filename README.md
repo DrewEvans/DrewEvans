@@ -9,8 +9,6 @@
 
 - 📫 How to reach me: <b>andrewevans@devporium.org</b> 
 
-- ⚡ Fun fact **I'm terrified of bats & they are the only mammal that can actually fly...**
-
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>

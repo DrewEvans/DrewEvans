@@ -1,5 +1,5 @@
 <h1 align="center">Welcome Newcomer</h1>
-<h3 align="center">A full stack developer fulled by ☕</h3>
+<h3 align="center">A frontend developer fulled by ☕</h3>
 
 <hr>
 
